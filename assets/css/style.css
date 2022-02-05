@@ -104,12 +104,12 @@ header {
       padding: 7px 15px;
       font-size: 16px;
       color: #024e76;
-      width: 100%
+      width: 100%;
       margin-bottom: 15px;
   }
 
   .hero-form label {
-      margin: 0 5px
+      margin: 0 5px;
   }
 
   .hero-form button {
@@ -223,8 +223,4 @@ header {
   .trainer-bio p {
     font-size: 17px;
     line-height: 1.3;
-  }
-
-  .image-float {
-    float: right;
   }
